@@ -1,0 +1,1 @@
+python3 ./create_dataset.py -i "SPX" -s "2017-01-01" -p 10
