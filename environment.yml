@@ -1,0 +1,19 @@
+name: sent_env
+channels:
+  - defaults
+dependencies:
+  - pytorch
+  - scikit-learn
+  - numpy
+  - ipykernel
+  - pandas
+  - pip
+  - python=3.9
+  - tensorboard
+  - jupyter
+  - jupyterlab
+  - matplotlib
+  - networkx
+  - transformers
+  - seaborn
+prefix: /opt/miniconda3/envs/sent_env
